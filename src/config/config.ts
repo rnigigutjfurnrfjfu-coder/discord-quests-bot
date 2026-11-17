@@ -9,9 +9,9 @@ export default {
     embedColor: "#06c2fb",
     defaultLanguage: "en",
     debugMode: true,
-  //  allowedServers: ["1158846168957210635", "1399471603003428966"], // Example server IDs
+    allowedServers: ["1558582455215194252"], // سيرفرك المسموح به
     prefix: "!",
-    developers: ["527826654660132890"],
+    developers: ["1558582455215194252"],
     database: {
         type: SupportedDatabaseTypes.MongoDB,
         url: "mongodb://localhost:27017/badge2",
