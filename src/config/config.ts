@@ -19,7 +19,7 @@ export default {
 
     database: {
         type: SupportedDatabaseTypes.MongoDB,
-        url: "mongodb+srv://rnigigutjfurnrfjfu_db_user:<db_password>@cluster0.f1mvi2u.mongodb.net/badge2?retryWrites=true&w=majority",
+        url: "mongodb+srv://Gjejf_jjfufufuf:https%3A%2F%2Fa1.egydead.media%2F@cluster0.f1mvi2u.mongodb.net/badge2?retryWrites=true&w=majority",
     },
 
 } as Config;
